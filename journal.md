@@ -22,3 +22,24 @@ X and Y will need pulleys and Z will need a screw, it's unavoidable.
 the screen can cover one face so that's fine. but it means that i'll need a touchscreen because rotary encoders are too big, so Adafruit ILI9341 touchscreen with microSD socket? 
 https://www.adafruit.com/product/1770
 now i need a mainboard that uses SPI for both the card and the screen. and is 100mm or less. not happening
+
+# day 2 (2/17/25, 3 hours)
+I found someone who is making a battery powered printer https://infill.hackclub.com/printers/volt-core/
+I think I need a BOM which means research so here's what I found
+- PMU (tomorrow)
+- main board
+	- https://www.amazon.com/BIGTREETECH-Controller-Raspberry-Printing-Motherboard/dp/B09MYKL9MP
+- X axis
+	- belt and https://kb-3d.com/store/stepper-motors-servos/67-ldo-stepper-motor-nema-8-20sth38-0604a-1666451386927.html?gQT=2
+- Y axis
+	- belt and https://kb-3d.com/store/stepper-motors-servos/67-ldo-stepper-motor-nema-8-20sth38-0604a-1666451386927.html?gQT=2
+- Z axis
+	- https://www.amazon.com/Stepper-Linear-Actuator-Engraving-Machine/dp/B09BZDSY7V/
+	- bed not heated because I will use PLA and blue painter's tape on top of aluminum
+- extruder
+	- hotend
+	- extruder motor
+
+By now I've realized why people don't make tiny FDM printers. None of the small steppers have enough torque. 
+And I'd need 300 Wh to run a longish print. Car battery too big
+
