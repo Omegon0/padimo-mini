@@ -43,3 +43,14 @@ I think I need a BOM which means research so here's what I found
 By now I've realized why people don't make tiny FDM printers. None of the small steppers have enough torque. 
 And I'd need 300 Wh to run a longish print. Car battery too big
 
+# day 3 (2/18/25, 4 hours)
+I forgot to push yesterday's entry oops
+Also I'm changing the dimensions and I'm making it a bed slinger because that's easier
+New dimensions: 80mm by 120mm by 120mm (80 is X or Y, not Z)
+I am making an actual BOM file now and starting to fusion it because I definitely won't have enough space (i might if I do this right)
+I thought about making it a bed slinger then I discovered 10mm aluminum extrusions exist and I can make a flying gantry printer
+Then I realized that CoreXY kinematics exist and [this](https://user-images.githubusercontent.com/44207097/47033555-7474f180-d175-11e8-912e-9c43061537b0.png) uses the least bearings so that's what i'm going with
+
+Found 10mm by 10mm aluminum extrusions, [these T slot nuts](https://www.amazon.com/MakerBeam-pieces-T-slot-nuts-screws/dp/B016OJNLJ2), [these corner cubes](https://www.amazon.com/MakerBeam-Corner-Cube-Black-pcs/dp/B00OWGOMG6/) (but i'm not using the corner cubes because reprap)
+
+I'll fusion tomorrow I promise
