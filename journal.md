@@ -54,3 +54,6 @@ Then I realized that CoreXY kinematics exist and [this](https://user-images.gith
 Found 10mm by 10mm aluminum extrusions, [these T slot nuts](https://www.amazon.com/MakerBeam-pieces-T-slot-nuts-screws/dp/B016OJNLJ2), [these corner cubes](https://www.amazon.com/MakerBeam-Corner-Cube-Black-pcs/dp/B00OWGOMG6/) (but i'm not using the corner cubes because reprap)
 
 I'll fusion tomorrow I promise
+
+# day 4 (2/20/25, 1 hour)
+My extruder and Z axis motors are too big so I'm finding smaller stuff. Had a busy school day and didn't get any of this done during school sadly
